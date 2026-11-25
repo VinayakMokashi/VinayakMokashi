@@ -2,14 +2,15 @@
 
 I'm a Data Science master's student at Brown University's [Data Science Institute](https://dsi.brown.edu/), and I previously worked at Accenture. I build machine-learning and LLM systems that show their work.
 
-**Looking for Data Scientist and AI/ML Engineer roles.** The best way to reach me is [LinkedIn](https://www.linkedin.com/in/vinayak-mokashi-36b1b1214/).
+**Looking for Data Scientist and AI/ML Engineer roles.** The best way to reach me is [LinkedIn](https://www.linkedin.com/in/vinayak-mokashi-36b1b1214/) or email: [vinayakmokashi305@gmail.com](mailto:vinayakmokashi305@gmail.com) or [vinayak_mokashi@brown.edu](mailto:vinayak_mokashi@brown.edu).
 
 **Tools I use most:**
 
-- **Languages:** Python, SQL, R and Julia
-- **Machine learning:** PyTorch, scikit-learn, XGBoost, SHAP, Hugging Face Transformers and PEFT (LoRA)
-- **LLMs and agents:** LangGraph, LangChain and MCP · RAG with Qdrant and ChromaDB · evaluation with Ragas and LLM-as-a-judge · tracing with Langfuse · the Claude API, plus open-weight models on Groq and Ollama
-- **Engineering and cloud:** FastAPI, Streamlit, Docker, pytest, GitHub Actions (CI/CD), Terraform, Google Cloud (Cloud Run) and AWS
+- **Languages and data:** Python, SQL (PostgreSQL, DuckDB), R and Julia
+- **Machine learning:** PyTorch, Hugging Face Transformers and PEFT (LoRA) · scikit-learn, XGBoost and LightGBM · Optuna and SHAP
+- **LLMs and agents:** LangGraph, LangChain and MCP · the Claude API, plus open-weight models on Groq and Ollama · guardrails and structured outputs with Pydantic
+- **RAG and evaluation:** hybrid search (BM25 + dense) with cross-encoder re-ranking · Qdrant and ChromaDB · Ragas and LLM-as-a-judge · tracing with Langfuse
+- **Engineering and MLOps:** FastAPI, Streamlit and Docker · pytest and GitHub Actions (CI/CD) · ONNX Runtime and drift monitoring · Terraform, Google Cloud (Cloud Run) and AWS
 - **AI-assisted development:** Claude Code
 
 ### Featured projects
