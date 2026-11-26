@@ -65,6 +65,7 @@ Runnable, step-by-step repos that build up LLM engineering from the ground up.
 
 - [pawlock](https://github.com/VinayakMokashi/pawlock): locks the keyboard and trackpad when a cat walks on them, with installers for Windows, macOS and Linux
 - [tokenlens](https://github.com/VinayakMokashi/tokenlens): shows what your Claude Code sessions cost, and why
+- [deep-work-tracker](https://github.com/VinayakMokashi/deep-work-tracker): an Excel deep-work log where you type one number a day and formulas fill in streaks, weekly and monthly totals and charts (built with openpyxl)
 - [lecture-notes-creator](https://github.com/VinayakMokashi/lecture-notes-creator): turns a lecture recording and its slides into detailed study notes (Whisper and Claude)
 - [backing-tracks](https://github.com/VinayakMokashi/backing-tracks): turns a YouTube or Instagram song into a karaoke backing track in your key and tempo (Demucs vocal removal, pitch-shifting and time-stretching)
 - [resume-analyzer-app](https://github.com/VinayakMokashi/resume-analyzer-app): scores a resume against a job description (Groq, Streamlit, AWS)
